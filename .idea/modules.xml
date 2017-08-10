@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Builing_blog/.idea/Builing_blog.iml" filepath="$USER_HOME$/Builing_blog/.idea/Builing_blog.iml" />
+      <module fileurl="file://$USER_HOME$/Home_management/.idea/Home_management.iml" filepath="$USER_HOME$/Home_management/.idea/Home_management.iml" />
+      <module fileurl="file://D:/EDUCATION/ALL PROGRAMMING/Django/New folder (2)/website/.idea/website.iml" filepath="D:/EDUCATION/ALL PROGRAMMING/Django/New folder (2)/website/.idea/website.iml" />
+    </modules>
+  </component>
+</project>
